@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/folder.ico</file>
+        <file>res/prog.ico</file>
+        <file>res/start.ico</file>
+        <file>res/stop.ico</file>
+    </qresource>
+</RCC>
